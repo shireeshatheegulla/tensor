@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(235, 226, 235);
+}
+.App {
+  text-align: center;
+  margin: 20px;
+  padding: 10px;
+}
+.update {
+  margin-top: 10px;
+  display: inline-block;
+  padding: 20px;
+  border: 1px solid white;
+  background-color: whitesmoke;
+}
+input {
+  padding: 5px;
+  background-color: ivory;
+}
+table {
+  background-color:white;
+}
+td {
+  background-color: white;
+}
+
+h1 {
+  margin-bottom: 50px;
+}
+
+table,
+th,
+td {
+  padding: 20px;
+}
+button {
+  background-color: wheat;
+  padding: 5px;
+}
